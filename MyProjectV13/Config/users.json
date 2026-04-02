@@ -1,0 +1,107 @@
+{
+  "groups": [
+    {
+      "alias": "administrators",
+      "name": "Administrators",
+      "sections": ["*"]
+    },
+    {
+      "alias": "writers-editors-translators",
+      "name": "Writers, Editors, Translators",
+      "sections": ["content", "media"]
+    }
+  ],
+  "users": [
+    {
+      "name": "Bella.Kang",
+      "email": "Bella.Kang@euroland.com",
+      "password": "?pf$#J9Fbn",
+      "groups": ["writers-editors-translators"]
+    },
+    {
+      "name": "Fred Yang",
+      "email": "fred.yang@euroland.com",
+      "password": "?pf$#J9Fbn",
+      "groups": ["writers-editors-translators"]
+    },
+    {
+      "name": "Lucy Bi",
+      "email": "lucy.bi@euroland.com",
+      "password": "?pf$#J9Fbn",
+      "groups": ["writers-editors-translators"]
+    },
+    {
+      "name": "Sky Yin",
+      "email": "sky.yin@euroland.com",
+      "password": "?pf$#J9Fbn",
+      "groups": ["writers-editors-translators"]
+    },
+    {
+      "name": "roon.luo",
+      "email": "roon.luo@euroland.com",
+      "password": "?pf$#J9Fbn",
+      "groups": ["writers-editors-translators"]
+    },
+
+    {
+      "name": "Le Manh Hung",
+      "email": "hung.le@euroland.com",
+      "password": "EurolandAsia123!@#",
+      "groups": ["administrators"]
+    },
+    {
+      "name": "Le Minh Sieu",
+      "email": "sieu.leminh@euroland.com",
+      "password": "EurolandAsia123!@#",
+      "groups": ["administrators"]
+    },
+    {
+      "name": "Nguyen The Dzung",
+      "email": "dung.nguyen@euroland.com",
+      "password": "?pf$#J9Fbn",
+      "groups": ["administrators"]
+    },
+    {
+      "name": "Ngo Minh Hieu",
+      "email": "hieu.ngominh@euroland.com",
+      "password": "EurolandAsia123!@#",
+      "groups": ["administrators"]
+    },
+    {
+      "name": "Ngo Tai Duy",
+      "email": "duy.ngotai@euroland.com",
+      "password": "EurolandAsia123!@#",
+      "groups": ["administrators"]
+    },
+    {
+      "name": "Nguyen Bao Minh",
+      "email": "minhnguyen.bao@euroland.com",
+      "password": "EurolandAsia123!@#",
+      "groups": ["administrators"]
+    },
+    {
+      "name": "Nguyen Si Dai",
+      "email": "dai.nguyensi@euroland.com",
+      "password": "EurolandAsia123!@#",
+      "groups": ["administrators"]
+    },
+    {
+      "name": "Nguyen Truong Son",
+      "email": "son.nguyentruong@euroland.com",
+      "password": "EurolandAsia123!@#",
+      "groups": ["administrators"]
+    },
+    {
+      "name": "Pham Hoang Viet",
+      "email": "viet.phamhoang@euroland.com",
+      "password": "EurolandAsia123!@#",
+      "groups": ["administrators"]
+    },
+    {
+      "name": "Pham Trung Tuyen",
+      "email": "trung.tuyenpham@euroland.com",
+      "password": "EurolandAsia123!@#",
+      "groups": ["administrators"]
+    }
+  ]
+}
